@@ -396,7 +396,7 @@ def get_size(filename):
 
 if __name__ == "__main__":
     debug = False
-    print('Input Image size is {0}'.format(get_size("images/my.jpg")))
+    print('Input Image T- shirt size is {0}'.format(get_size("images/my.jpg")))
 
 
 
